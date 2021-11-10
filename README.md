@@ -1,2 +1,2 @@
 # pepsv1
-Repositorio de pruebas de PESPS
+Repositorio de pruebas de PEPS
